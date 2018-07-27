@@ -1,3 +1,4 @@
+# 无浏览器和输入约束设备的OAuth
 
 **本文是oauth.com上的教程的翻译。（[原文地址](https://www.oauth.com)）**
 
